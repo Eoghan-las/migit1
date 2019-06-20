@@ -14,7 +14,7 @@ import com.im.service.InvitationService;
 
 /**
  * @author Eoghan
- * @category 帖子控制器
+ * @category 帖子控制器123
  */
 @Controller
 public class InvitationController {
